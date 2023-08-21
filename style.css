@@ -1,0 +1,47 @@
+body{
+    background-image:url(./image2.jpg);
+    width: 100%;
+    height: max-content;
+
+}
+
+.computer-Choice{
+    margin-left: 600px;
+    font-size:xx-large;
+    font-family: monospace;
+}
+
+.Your-Choice{
+    margin-left: 600px;
+    font-size:xx-large;
+    font-family: monospace;
+    margin-top: 50px;
+}
+.result{
+    margin-left: 600px;
+    font-size:xx-large;
+    font-family: monospace;
+    margin-top: 50px;
+}
+
+#rock{
+    margin-left: 650px;
+    margin-top: 50px;
+    font-size: larger;
+    background-color: rgb(93, 138, 235);
+    border-radius: 7px;
+    border: solid black;
+}
+
+#paper{
+    font-size: larger;
+    background-color:rgb(244, 135, 226);
+    border-radius: 7px;
+    border: solid black;
+}
+#scissor{
+    font-size: larger;
+    background-color: rgb(115, 225, 225);
+    border-radius: 7px;
+    border: solid black;
+}
